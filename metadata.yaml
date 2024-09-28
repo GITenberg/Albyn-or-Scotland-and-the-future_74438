@@ -1,5 +1,8 @@
 _repo: Albyn-or-Scotland-and-the-future_74438
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74438-h/images/cover.jpg
 creator:
   author:
     agent_name: MacDiarmid, Hugh
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56788
     wikipedia: https://en.wikipedia.org/wiki/Hugh_MacDiarmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74438#Albyn-or-Scotland-and-the-future
 gutenberg_issued: '2024-09-18'
 gutenberg_type: Text
 identifiers:
